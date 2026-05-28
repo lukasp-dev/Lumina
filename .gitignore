@@ -1,0 +1,16 @@
+# Build output
+build/
+
+# Compiler output
+*.o
+*.a
+*.so
+*.out
+
+# IDE/Editor
+.vscode/
+.idea/
+compile_commands.json
+
+# OS
+.DS_Store
